@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QDt6HuoATpvbEMl83aBC-36" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.exchange_active_sync;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="682" y="377" width="49" height="49" as="geometry" />
+          <mxGeometry x="682" y="374" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QDt6HuoATpvbEMl83aBC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDt6HuoATpvbEMl83aBC-30" target="QDt6HuoATpvbEMl83aBC-36">
           <mxGeometry relative="1" as="geometry" />
