@@ -17,10 +17,10 @@
           <mxGeometry x="-20" y="325.13" width="57.74" height="57.74" as="geometry" />
         </mxCell>
         <mxCell id="QDt6HuoATpvbEMl83aBC-10" value="WEB TIER" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#b0e3e6;rounded=0;glass=0;strokeColor=#0e8088;container=0;" parent="1" vertex="1">
-          <mxGeometry x="235.5" y="150" width="120" height="20" as="geometry" />
+          <mxGeometry x="235.5" y="123" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QDt6HuoATpvbEMl83aBC-13" value="APP TIER" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#b0e3e6;rounded=0;glass=0;strokeColor=#0e8088;container=0;" parent="1" vertex="1">
-          <mxGeometry x="535" y="147" width="120" height="20" as="geometry" />
+          <mxGeometry x="535" y="123" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S8JZdwKnUH0C-4IAU3wr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QDt6HuoATpvbEMl83aBC-2" target="S8JZdwKnUH0C-4IAU3wr-13">
           <mxGeometry relative="1" as="geometry" />
@@ -57,6 +57,15 @@
         </mxCell>
         <mxCell id="S8JZdwKnUH0C-4IAU3wr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S8JZdwKnUH0C-4IAU3wr-1" target="QDt6HuoATpvbEMl83aBC-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8JZdwKnUH0C-4IAU3wr-19" value="Availability zone" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="158" width="584" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="S8JZdwKnUH0C-4IAU3wr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QDt6HuoATpvbEMl83aBC-10" target="QDt6HuoATpvbEMl83aBC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S8JZdwKnUH0C-4IAU3wr-21" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="117" width="763" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
