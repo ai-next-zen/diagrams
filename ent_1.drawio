@@ -32,9 +32,9 @@
           <mxGeometry x="421" y="707" width="679" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GuT3VO3JKZ2GulKYu3Ov-19" value="STORAGE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="900" y="440" width="90" height="40" as="geometry" />
+          <mxGeometry x="850" y="440" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GuT3VO3JKZ2GulKYu3Ov-20" value="REPLICATION" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="GuT3VO3JKZ2GulKYu3Ov-20" value="REPLICATION" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rounded=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1000" y="438" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GuT3VO3JKZ2GulKYu3Ov-24" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AUTO-SCALING&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GROUP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;spacingTop=6;spacing=-35;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
