@@ -28,6 +28,12 @@
         <mxCell id="GuT3VO3JKZ2GulKYu3Ov-13" value="COMPUTE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="90" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="GuT3VO3JKZ2GulKYu3Ov-14" value="MANGEMENT &amp;amp; POLICIES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="326" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GuT3VO3JKZ2GulKYu3Ov-15" value="SECURITY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="660" width="360" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
