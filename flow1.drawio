@@ -177,6 +177,9 @@
         <mxCell id="StNsoj_P8_iYhHm3oGqo-153" value="Matching students record is a big issue, create multiple profiles" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="390" y="311" width="80" height="109" as="geometry" />
         </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-154" value="Choose the wrong session SD card" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1370" width="110" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
