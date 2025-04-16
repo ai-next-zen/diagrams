@@ -218,6 +218,27 @@
         <mxCell id="StNsoj_P8_iYhHm3oGqo-164" value="Self validation from Subject" style="whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="51.5" y="1745" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-167" value="Opportunity to create Studio App(Tablet or Desktop) for Field Workers" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontStyle=1;strokeWidth=3;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1920" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-170" value="Water Mark" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="256" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-172" value="Order / Selling Flow" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="256" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-173" value="Event info / Real time updates" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="12" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-175" value="Upload Photos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="16" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-176" value="Look online any field service app for reference" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="136" y="2040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-177" value="Inventory info" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
