@@ -162,6 +162,15 @@
         <mxCell id="StNsoj_P8_iYhHm3oGqo-146" value="Real time communication if event attributes/status changed" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="350" y="1299" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-148" value="How We Should&lt;div&gt;What We Deliverables&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-149" value="Calculate School rating based on Feedback" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1270" width="94" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-150" value="Steve comment&lt;br&gt;Big fan of open source like postgres / kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="120" height="89" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
