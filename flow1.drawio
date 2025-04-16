@@ -123,7 +123,7 @@
         <mxCell id="StNsoj_P8_iYhHm3oGqo-131" value="Drop down to capture data (currently free form)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="94.5" y="1015" width="94" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="StNsoj_P8_iYhHm3oGqo-132" value="Modular based decoupling of monolith app" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-132" value="Modular based decoupling of monolith app(Customer facing, Scheduling, Track jobs, Sales Rep, School Rep) (Department or workflow wise)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="-170" y="890" width="222" height="90" as="geometry" />
         </mxCell>
       </root>
