@@ -126,7 +126,7 @@
         <mxCell id="StNsoj_P8_iYhHm3oGqo-132" value="Modular based decoupling of monolith app(Customer facing, Scheduling, Track jobs, Sales Rep, School Rep) (Department or workflow wise)" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="-170" y="890" width="222" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="StNsoj_P8_iYhHm3oGqo-134" value="Steve comment&lt;br&gt;All data should be Single Source of Truth (use anything prefer .Net core over .Net" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-134" value="Steve prefer -&amp;nbsp;&lt;br&gt;All data should be Single Source of Truth (use anything prefer .Net core over .Net" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="520" y="571" width="120" height="89" as="geometry" />
         </mxCell>
         <mxCell id="StNsoj_P8_iYhHm3oGqo-135" value="Contract shouldn&#39;t stay in SUMMIT" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
@@ -168,7 +168,7 @@
         <mxCell id="StNsoj_P8_iYhHm3oGqo-149" value="Calculate School rating based on Feedback" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="68" y="1270" width="94" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="StNsoj_P8_iYhHm3oGqo-150" value="Steve comment&lt;br&gt;Big fan of open source like postgres / kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
+        <mxCell id="StNsoj_P8_iYhHm3oGqo-150" value="Steve prefer&lt;br&gt;Big fan of open source like postgres / kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="520" y="660" width="120" height="89" as="geometry" />
         </mxCell>
         <mxCell id="StNsoj_P8_iYhHm3oGqo-151" value="Missing Workflow for Equipment delivery (Inventory management to track items like Camera IN/OUT" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
