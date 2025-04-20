@@ -62,7 +62,7 @@
           <mxGeometry x="25" y="10" width="815" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-10" value="Parent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
-          <mxGeometry x="595" y="11" width="85" height="33.5" as="geometry" />
+          <mxGeometry x="605" y="11" width="85" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-5" value="Sales" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
           <mxGeometry x="45" y="11" width="50" height="23.5" as="geometry" />
@@ -152,19 +152,21 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Vq_-WFX9l6VVxcUfYHJe-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="662.5" y="56.5" as="sourcePoint" />
+            <mxPoint x="660" y="50" as="sourcePoint" />
             <mxPoint x="635" y="180.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="636" y="57" />
+              <mxPoint x="663" y="120" />
+              <mxPoint x="636" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vq_-WFX9l6VVxcUfYHJe-10" target="Vq_-WFX9l6VVxcUfYHJe-18">
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vq_-WFX9l6VVxcUfYHJe-10" target="Vq_-WFX9l6VVxcUfYHJe-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="663" y="120" />
+              <mxPoint x="680" y="55" />
+              <mxPoint x="680" y="120" />
               <mxPoint x="710" y="120" />
             </Array>
           </mxGeometry>
