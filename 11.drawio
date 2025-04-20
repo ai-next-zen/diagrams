@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.13" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.13" pages="5">
   <diagram name="Page-1" id="dv1BpwVz9YMaFAA80OQs">
     <mxGraphModel dx="2574" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -622,6 +622,81 @@
         </mxCell>
         <mxCell id="BRYLoG9k2iliKm1dR8KV-6" value="Monday.com" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KcVVVQW1apAG06_-xDAs" name="Photopass">
+    <mxGraphModel dx="532" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OARIgFmK__duFbJh3Se3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OARIgFmK__duFbJh3Se3-1" target="OARIgFmK__duFbJh3Se3-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-1" value="Photopass&lt;div&gt;App&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OARIgFmK__duFbJh3Se3-4" target="OARIgFmK__duFbJh3Se3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-4" value="Event QR Code&lt;div&gt;Scan&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OARIgFmK__duFbJh3Se3-7" target="OARIgFmK__duFbJh3Se3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-7" value="Student&amp;nbsp;&lt;div&gt;Lookup&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OARIgFmK__duFbJh3Se3-11" target="OARIgFmK__duFbJh3Se3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-28" value="Tehter/Non-Tehter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OARIgFmK__duFbJh3Se3-14">
+          <mxGeometry x="0.0483" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OARIgFmK__duFbJh3Se3-11" target="OARIgFmK__duFbJh3Se3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-25" value="SD/Offline" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OARIgFmK__duFbJh3Se3-24">
+          <mxGeometry x="0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-11" value="&lt;div&gt;Photo ShootOut&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OARIgFmK__duFbJh3Se3-13" target="OARIgFmK__duFbJh3Se3-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-13" value="Store Images On&lt;div&gt;iPAD&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-16" value="AWS S3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OARIgFmK__duFbJh3Se3-23" target="OARIgFmK__duFbJh3Se3-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-27" value="Manually" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OARIgFmK__duFbJh3Se3-26">
+          <mxGeometry x="-0.4844" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OARIgFmK__duFbJh3Se3-23" value="Photos on SD Card" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
