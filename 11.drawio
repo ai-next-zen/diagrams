@@ -4,80 +4,83 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-46" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Functions&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="18" y="310" width="822" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-20" value="Bids&#xa;Requirements&#xa;Leads&#xa;Opportunities&#xa;Agreements&#xa;Deliverables&#xa;Incentives&#xa;Commissions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="28" y="23" width="89" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-21" value="Locations&#xa;Resources&#xa;Schedules&#xa;Events&#xa;Sessions&#xa;Time &amp;amp; Attn&#xa;Quality" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="127.5" y="23" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-22" value="Events&#xa;Students&#xa;Scheduling" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="246.25" y="23" width="72.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-23" value="Capture&#xa;Check In&#xa;Studio Sales&#xa;Event Execs&#xa;Exceptions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="360" y="20.5" width="90.5" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-24" value="Workflows&#xa;Work Orders&#xa;Task Assignments&#xa;All QC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="467" y="20.5" width="100" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-25" value="Subjects&#xa;Sessions&#xa;Orders&#xa;Media" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="580" y="25" width="70" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-26" value="Orders&#xa;Products" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="662" y="25" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-27" value="Registration on" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
+          <mxGeometry x="735.5" y="23" width="68" height="29" as="geometry" />
+        </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-45" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Applications&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="25" y="156.25" width="815" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-17" value="Parent Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
-          <mxGeometry x="670" y="23" width="70" height="37" as="geometry" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-17" value="Parent Dashboard" style="whiteSpace=wrap;strokeWidth=2;fontSize=11;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
+          <mxGeometry x="575" y="23" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-18" value="Sunny16" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
-          <mxGeometry x="745" y="23" width="60" height="29" as="geometry" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-18" value="E-Commerce" style="whiteSpace=wrap;strokeWidth=2;fontSize=11;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
+          <mxGeometry x="650" y="27" width="70" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-12" value="Salesforce CRM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
           <mxGeometry x="30" y="22" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-13" value="Cady Apps" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
+          <mxGeometry x="135" y="22" width="75" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-14" value="MyCady Portal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
+          <mxGeometry x="230" y="23" width="95" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-15" value="Cady Capture" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
+          <mxGeometry x="350" y="22.75" width="100" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-16" value="Cady Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
+          <mxGeometry x="465" y="22" width="90" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-19" value="Photo Pass" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-45">
+          <mxGeometry x="725" y="27" width="75" height="27.5" as="geometry" />
+        </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-44" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Users / Dept&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="25" y="10" width="805" height="100" as="geometry" />
+          <mxGeometry x="25" y="10" width="815" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-10" value="Parent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
-          <mxGeometry x="685" y="16.5" width="85" height="33.5" as="geometry" />
+          <mxGeometry x="595" y="12" width="85" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-5" value="Sales" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
           <mxGeometry x="42" y="16.5" width="50" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-6" value="SX, Studio Mgt, CX, Finance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
-          <mxGeometry x="95" y="16.5" width="95" height="33.5" as="geometry" />
+          <mxGeometry x="125" y="16.5" width="95" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-7" value="School" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
-          <mxGeometry x="215" y="16.5" width="65" height="23.5" as="geometry" />
+          <mxGeometry x="245" y="16.5" width="65" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-8" value="Photographer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="35.5" width="95" height="34.5" as="geometry" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-8" value="Photographer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
+          <mxGeometry x="355" y="11" width="95" height="34.5" as="geometry" />
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-9" value="Production" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="36" width="80" height="34" as="geometry" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-9" value="Production" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
+          <mxGeometry x="471" y="11.5" width="80" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-11" value="Student" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="36.5" width="90" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-13" value="Cady Apps" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="167" y="187.5" width="101" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-14" value="MyCady Portal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="187.5" width="100" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-15" value="Cady Capture" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="465" y="192.5" width="100" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-16" value="Cady Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="179.25" width="90" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-19" value="Photo Pass" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="192.5" width="100" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-20" value="Bids&#xa;Requirements&#xa;Leads&#xa;Opportunities&#xa;Agreements&#xa;Deliverables&#xa;Incentives&#xa;Commissions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="51" y="340" width="93" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-21" value="Locations&#xa;Resources&#xa;Schedules&#xa;Events&#xa;Sessions&#xa;Time &amp;amp; Attn&#xa;Quality" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="167" y="340" width="103" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-22" value="Events&#xa;Students&#xa;Scheduling" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-23" value="Capture&#xa;Check In&#xa;Studio Sales&#xa;Event Execs&#xa;Exceptions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="469.75" y="340" width="90.5" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-24" value="Workflows&#xa;Work Orders&#xa;Task Assignments&#xa;All QC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="342" width="100" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-25" value="Subjects&#xa;Sessions&#xa;Orders&#xa;Media" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="342" width="50" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-26" value="Orders&#xa;Products" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="342" width="60" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-27" value="Registration on" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="990" y="348" width="168" height="54" as="geometry" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-11" value="Student" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-44">
+          <mxGeometry x="725" y="11" width="75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Vq_-WFX9l6VVxcUfYHJe-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Vq_-WFX9l6VVxcUfYHJe-5" target="Vq_-WFX9l6VVxcUfYHJe-12">
           <mxGeometry relative="1" as="geometry">
@@ -149,17 +152,22 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-46" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Functions&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="20" y="310" width="815" height="100" as="geometry" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="662.5" y="56.5" as="sourcePoint" />
+            <mxPoint x="635" y="180.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="636" y="57" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-47" value="Parent Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
-          <mxGeometry x="670" y="23" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-48" value="Sunny16" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
-          <mxGeometry x="745" y="23" width="60" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-49" value="Salesforce CRM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Vq_-WFX9l6VVxcUfYHJe-46">
-          <mxGeometry x="30" y="22" width="75" height="30" as="geometry" />
+        <mxCell id="Vq_-WFX9l6VVxcUfYHJe-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vq_-WFX9l6VVxcUfYHJe-10" target="Vq_-WFX9l6VVxcUfYHJe-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="120" />
+              <mxPoint x="710" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
