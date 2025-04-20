@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.13" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.13" pages="4">
   <diagram name="Page-1" id="dv1BpwVz9YMaFAA80OQs">
     <mxGraphModel dx="2574" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -554,6 +554,45 @@
         </mxCell>
         <mxCell id="QaBSVXSYE0db8IG4KcRK-24" value="&lt;ul&gt;&lt;li&gt;Product Lines&lt;/li&gt;&lt;li&gt;Events&lt;/li&gt;&lt;li&gt;Deliverables&lt;/li&gt;&lt;li&gt;Incentives&lt;/li&gt;&lt;li&gt;Culture Credits&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="310" y="470" width="170" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZxPC_ixLZua8GuEFvunn" name="CF">
+    <mxGraphModel dx="532" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRYLoG9k2iliKm1dR8KV-1" target="BRYLoG9k2iliKm1dR8KV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-1" value="Precisbly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRYLoG9k2iliKm1dR8KV-2" target="BRYLoG9k2iliKm1dR8KV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-9" value="Market Anaylsis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRYLoG9k2iliKm1dR8KV-5">
+          <mxGeometry x="-0.225" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRYLoG9k2iliKm1dR8KV-2" target="BRYLoG9k2iliKm1dR8KV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-8" value="Signed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRYLoG9k2iliKm1dR8KV-7">
+          <mxGeometry x="0.1882" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-2" value="SFSC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-4" value="SFMC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-6" value="Monday.com" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
