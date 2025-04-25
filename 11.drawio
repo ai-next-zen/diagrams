@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="10">
   <diagram id="0YWZfQ3BifshSVg3Sqa6" name="Overall">
     <mxGraphModel dx="948" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZxPC_ixLZua8GuEFvunn" name="CF">
-    <mxGraphModel dx="1273" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -489,6 +489,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OARIgFmK__duFbJh3Se3-23" value="Photos on SD Card" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="MyCady" id="j-bHePWwJnK6uShucPzY">
+    <mxGraphModel dx="1018" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-0" />
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-1" parent="lLniL_mEcrsBnGL2Ieey-0" />
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lLniL_mEcrsBnGL2Ieey-1" source="lLniL_mEcrsBnGL2Ieey-3" target="lLniL_mEcrsBnGL2Ieey-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-3" value="Photopass&lt;div&gt;App&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lLniL_mEcrsBnGL2Ieey-1">
+          <mxGeometry x="160" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLniL_mEcrsBnGL2Ieey-1" source="lLniL_mEcrsBnGL2Ieey-5" target="lLniL_mEcrsBnGL2Ieey-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-5" value="Event QR Code&lt;div&gt;Scan&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lLniL_mEcrsBnGL2Ieey-1">
+          <mxGeometry x="175" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLniL_mEcrsBnGL2Ieey-1" source="lLniL_mEcrsBnGL2Ieey-7" target="lLniL_mEcrsBnGL2Ieey-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-7" value="Student&amp;nbsp;&lt;div&gt;Lookup&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lLniL_mEcrsBnGL2Ieey-1">
+          <mxGeometry x="160" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLniL_mEcrsBnGL2Ieey-1" source="lLniL_mEcrsBnGL2Ieey-12" target="lLniL_mEcrsBnGL2Ieey-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-9" value="Tehter/Non-Tehter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lLniL_mEcrsBnGL2Ieey-8">
+          <mxGeometry x="0.0483" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lLniL_mEcrsBnGL2Ieey-1" source="lLniL_mEcrsBnGL2Ieey-12" target="lLniL_mEcrsBnGL2Ieey-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-11" value="SD/Offline" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lLniL_mEcrsBnGL2Ieey-10">
+          <mxGeometry x="0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-12" value="&lt;div&gt;Photo ShootOut&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lLniL_mEcrsBnGL2Ieey-1">
+          <mxGeometry x="160" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lLniL_mEcrsBnGL2Ieey-1" source="lLniL_mEcrsBnGL2Ieey-14" target="lLniL_mEcrsBnGL2Ieey-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="410" />
+              <mxPoint x="365" y="450" />
+              <mxPoint x="280" y="450" />
+            </Array>
+            <mxPoint x="300" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-14" value="Store Images On&lt;div&gt;iPAD&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lLniL_mEcrsBnGL2Ieey-1">
+          <mxGeometry x="300" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-15" value="AWS S3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lLniL_mEcrsBnGL2Ieey-1">
+          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lLniL_mEcrsBnGL2Ieey-1" source="lLniL_mEcrsBnGL2Ieey-18" target="lLniL_mEcrsBnGL2Ieey-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="450" />
+            </Array>
+            <mxPoint x="130" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-17" value="Manually" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lLniL_mEcrsBnGL2Ieey-16">
+          <mxGeometry x="-0.4844" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLniL_mEcrsBnGL2Ieey-18" value="Photos on SD Card" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lLniL_mEcrsBnGL2Ieey-1">
           <mxGeometry x="10" y="360" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
