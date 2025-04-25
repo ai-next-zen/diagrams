@@ -341,11 +341,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZxPC_ixLZua8GuEFvunn" name="CF">
-    <mxGraphModel dx="1072" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BRYLoG9k2iliKm1dR8KV-1" value="Precisely" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-1" value="&lt;b&gt;Precisely&lt;/b&gt;&lt;div&gt;Contract Creation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BRYLoG9k2iliKm1dR8KV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="BRYLoG9k2iliKm1dR8KV-2" target="BRYLoG9k2iliKm1dR8KV-4" edge="1">
@@ -359,27 +359,30 @@
         <mxCell id="BRYLoG9k2iliKm1dR8KV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="BRYLoG9k2iliKm1dR8KV-2" target="BRYLoG9k2iliKm1dR8KV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRYLoG9k2iliKm1dR8KV-8" value="Signed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="BRYLoG9k2iliKm1dR8KV-7" vertex="1" connectable="0">
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-8" value="Signed Contract" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="BRYLoG9k2iliKm1dR8KV-7" vertex="1" connectable="0">
           <mxGeometry x="0.1882" y="3" relative="1" as="geometry">
-            <mxPoint x="-5" y="-8" as="offset" />
+            <mxPoint x="44" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRYLoG9k2iliKm1dR8KV-2" value="SFSC" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-2" value="&lt;b&gt;SFSC&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="113" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BRYLoG9k2iliKm1dR8KV-4" value="SFMC" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="425" y="200" width="115" height="40" as="geometry" />
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-4" value="&lt;b&gt;SFMC&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="352" y="200" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y_3inzDOMwtNegfCa0fN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="BRYLoG9k2iliKm1dR8KV-6" target="Y_3inzDOMwtNegfCa0fN-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y_3inzDOMwtNegfCa0fN-11" value="Manual" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="Y_3inzDOMwtNegfCa0fN-10" vertex="1" connectable="0">
+        <mxCell id="Y_3inzDOMwtNegfCa0fN-11" value="Manual Entry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="Y_3inzDOMwtNegfCa0fN-10" vertex="1" connectable="0">
           <mxGeometry x="-0.2195" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRYLoG9k2iliKm1dR8KV-6" value="Monday.com" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="223" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="YpGk8MDNV2e08EZ24GcY-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRYLoG9k2iliKm1dR8KV-6" target="BRYLoG9k2iliKm1dR8KV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRYLoG9k2iliKm1dR8KV-6" value="&lt;b&gt;Monday.com&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="113" y="288" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y_3inzDOMwtNegfCa0fN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="Y_3inzDOMwtNegfCa0fN-2" target="BRYLoG9k2iliKm1dR8KV-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -388,7 +391,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y_3inzDOMwtNegfCa0fN-2" value="External Data" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="Y_3inzDOMwtNegfCa0fN-2" value="&lt;b&gt;External Data&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y_3inzDOMwtNegfCa0fN-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="BRYLoG9k2iliKm1dR8KV-2" target="BRYLoG9k2iliKm1dR8KV-1" edge="1">
@@ -406,8 +409,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y_3inzDOMwtNegfCa0fN-9" value="SUMMIT DB" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="Y_3inzDOMwtNegfCa0fN-9" value="&lt;b&gt;SUMMIT DB&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="352" y="298" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
