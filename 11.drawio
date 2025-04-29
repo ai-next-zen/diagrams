@@ -747,35 +747,30 @@
         <mxCell id="T653BtKw3WBtII0gaVW2-0" />
         <mxCell id="T653BtKw3WBtII0gaVW2-1" parent="T653BtKw3WBtII0gaVW2-0" />
         <mxCell id="UITMxjZZhgZwp50VkCVl-0" value="Research and Evaluate Market" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="80" y="109" width="179" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="UITMxjZZhgZwp50VkCVl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="T653BtKw3WBtII0gaVW2-1" source="UITMxjZZhgZwp50VkCVl-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="288.14285714285734" y="230.71428571428578" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="389" y="109" width="199" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-1" value="Conduct Sales Planning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="171" y="181" width="160" height="47" as="geometry" />
+          <mxGeometry x="389" y="187" width="199" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-2" value="Revise Tiers and Products" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="259" y="250" width="165" height="47" as="geometry" />
+          <mxGeometry x="389" y="261" width="199" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-3" value="Hire Key Reps" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="340" y="323" width="150" height="47" as="geometry" />
+          <mxGeometry x="389" y="343" width="199" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-4" value="Execute Sales Pipeline" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="419" y="392" width="150" height="47" as="geometry" />
+          <mxGeometry x="389" y="424" width="199" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-5" value="Execute Partnerships" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="492" y="469" width="153" height="47" as="geometry" />
+          <mxGeometry x="389" y="503" width="199" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T653BtKw3WBtII0gaVW2-1" source="UITMxjZZhgZwp50VkCVl-6" target="UITMxjZZhgZwp50VkCVl-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-6" value="Sign Photo Agreements" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="558" y="545" width="156" height="47" as="geometry" />
+          <mxGeometry x="389" y="582" width="199" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="UITMxjZZhgZwp50VkCVl-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="T653BtKw3WBtII0gaVW2-1" source="UITMxjZZhgZwp50VkCVl-0" target="UITMxjZZhgZwp50VkCVl-1">
+        <mxCell id="UITMxjZZhgZwp50VkCVl-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="T653BtKw3WBtII0gaVW2-1" source="UITMxjZZhgZwp50VkCVl-0" target="UITMxjZZhgZwp50VkCVl-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -809,10 +804,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-13" value="SELL A&amp;nbsp;&lt;div&gt;CUSTOMER&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="109" y="32" width="121" height="39" as="geometry" />
+          <mxGeometry x="428" y="28" width="121" height="39" as="geometry" />
         </mxCell>
         <mxCell id="UITMxjZZhgZwp50VkCVl-18" value="Execute the Job" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="T653BtKw3WBtII0gaVW2-1">
-          <mxGeometry x="645" y="627" width="146" height="47" as="geometry" />
+          <mxGeometry x="389" y="661" width="199" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
