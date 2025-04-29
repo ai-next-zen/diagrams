@@ -486,6 +486,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fcsxfj5nPa-Td-K6CfG6-24" value="PS - PARTIAL SYNC" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lPMNREJxnZ2uQeu_Wf1B-1">
+          <mxGeometry x="622" y="74" width="98" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
