@@ -1220,7 +1220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SVXMVi812DLijAKoaHP_" name="ALL">
-    <mxGraphModel dx="-775" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-682" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1233,7 +1233,7 @@
             <mxPoint x="383" y="425.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hh35R7LU44pXgAFVoj9g-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hh35R7LU44pXgAFVoj9g-1" target="hh35R7LU44pXgAFVoj9g-4">
+        <mxCell id="E-EXnMSNBFAADARgT_5W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hh35R7LU44pXgAFVoj9g-1" target="hh35R7LU44pXgAFVoj9g-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hh35R7LU44pXgAFVoj9g-1" value="&lt;span&gt;Precisely&lt;/span&gt;&lt;div&gt;Contract Creation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=0;fontColor=#FFFFFF;fillColor=#FFA500;" vertex="1" parent="1">
@@ -1247,15 +1247,8 @@
             <mxPoint x="40" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hh35R7LU44pXgAFVoj9g-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hh35R7LU44pXgAFVoj9g-4" target="hh35R7LU44pXgAFVoj9g-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1784" y="694.6666666666667" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hh35R7LU44pXgAFVoj9g-28" value="Market Anaylsis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hh35R7LU44pXgAFVoj9g-26">
-          <mxGeometry x="0.4225" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="E-EXnMSNBFAADARgT_5W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hh35R7LU44pXgAFVoj9g-4" target="hh35R7LU44pXgAFVoj9g-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hh35R7LU44pXgAFVoj9g-4" value="&lt;span&gt;SalesForce&lt;/span&gt;&lt;div&gt;&lt;span&gt;Sale Cloud&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fontStyle=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#007BFF;" vertex="1" parent="1">
           <mxGeometry x="1802" y="722" width="122" height="60" as="geometry" />
@@ -1274,6 +1267,11 @@
         </mxCell>
         <mxCell id="hh35R7LU44pXgAFVoj9g-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hh35R7LU44pXgAFVoj9g-11" target="hh35R7LU44pXgAFVoj9g-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-EXnMSNBFAADARgT_5W-3" value="Agile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hh35R7LU44pXgAFVoj9g-44">
+          <mxGeometry x="-0.4372" relative="1" as="geometry">
+            <mxPoint x="15" y="13" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hh35R7LU44pXgAFVoj9g-11" value="Marketing&lt;span&gt;&amp;nbsp;Data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=0;fillColor=#FFA500;fontColor=#FFFFFF;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1847" y="542" width="92" height="30" as="geometry" />
