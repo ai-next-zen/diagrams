@@ -1149,7 +1149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="702" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
@@ -2346,19 +2346,31 @@
         <mxCell id="vuQbkAUFiS57nvrcOvvr-35" value="Daily Log" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1590" y="626" width="201" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-36" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Furlough Checklist&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="1592" y="726" width="199" height="98" as="geometry">
-            <mxRectangle x="1159" y="660" width="200" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-37" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-36">
-          <mxGeometry x="51" y="29" width="120" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-38" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View details&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Filter Results&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1430" y="660" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-39" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View details&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Filter Results&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Add-Edit Record&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Delete Record&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1641.5" y="660" width="108.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-40" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Daily Log Entries&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1593" y="728" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Inmate Return Times&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1593" y="758" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-43" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Inmate Entry/Exit&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1593" y="790.5" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-44" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Last Shift Highlights&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1593" y="820" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
