@@ -1149,10 +1149,18 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="970" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-25" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Furlough&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="830" width="197" height="60" as="geometry">
+            <mxRectangle x="1374" y="830" width="199" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-26" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(6, 6, 6), rgb(232, 232, 232));&quot;&gt;Checks&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(6, 6, 6), rgb(232, 232, 232));&quot;&gt;Sponsors&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-25">
+          <mxGeometry x="67" y="23" width="83" height="35" as="geometry" />
+        </mxCell>
         <mxCell id="hAVVUOftqvUgP58lIGlO-2" value="WRIMS&#xa;Work Release Inmate Monitoring System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="8139" y="170" width="260" height="102" as="geometry" />
         </mxCell>
@@ -2243,9 +2251,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-0" value="&lt;span style=&quot;color: rgb(0, 123, 255); font-weight: 400; text-align: left;&quot;&gt;Furlough Checklist&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-0" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Furlough Checklist&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1159" y="660" width="199" height="98" as="geometry">
-            <mxRectangle x="1159" y="660" width="134" height="26" as="alternateBounds" />
+            <mxRectangle x="1159" y="660" width="200" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-3" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-0">
@@ -2254,29 +2262,75 @@
         <mxCell id="vuQbkAUFiS57nvrcOvvr-4" value="&lt;li data-end=&quot;965&quot; data-start=&quot;943&quot;&gt;&lt;p data-end=&quot;965&quot; data-start=&quot;945&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;Furlough Checklist&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;981&quot; data-start=&quot;966&quot;&gt;&lt;p data-end=&quot;981&quot; data-start=&quot;968&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;Inmate List&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;981&quot; data-start=&quot;966&quot;&gt;&lt;p data-end=&quot;981&quot; data-start=&quot;968&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Status Filters&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;981&quot; data-start=&quot;966&quot;&gt;&lt;p data-end=&quot;981&quot; data-start=&quot;968&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Inmate Detail View&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;981&quot; data-start=&quot;966&quot;&gt;&lt;p data-end=&quot;981&quot; data-start=&quot;968&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;Intake Monitoring&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;1024&quot; data-start=&quot;1004&quot;&gt;&lt;p data-end=&quot;1024&quot; data-start=&quot;1006&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;Daily Log Search&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;1040&quot; data-start=&quot;1025&quot;&gt;&lt;p data-end=&quot;1040&quot; data-start=&quot;1027&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;Trip Counts&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li data-end=&quot;1074&quot; data-start=&quot;1041&quot;&gt;&lt;p data-end=&quot;1074&quot; data-start=&quot;1043&quot;&gt;&lt;font style=&quot;color: rgb(0, 123, 255);&quot;&gt;Weekly Drug Testing&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1650" y="720" width="170" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-7" value="&lt;span style=&quot;color: rgb(0, 123, 255); font-weight: 400; text-align: left;&quot;&gt;Intake Montoring&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-7" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Intake Montoring&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1158" y="767" width="199" height="70" as="geometry">
-            <mxRectangle x="1159" y="660" width="134" height="26" as="alternateBounds" />
+            <mxRectangle x="1158" y="767" width="198" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-8" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-7">
           <mxGeometry x="51" y="29" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-9" value="&lt;span style=&quot;color: rgb(0, 123, 255); font-weight: 400; text-align: left;&quot;&gt;Search Daily Log&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-9" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Search Daily Log&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1158" y="846" width="199" height="98" as="geometry">
-            <mxRectangle x="1159" y="660" width="134" height="26" as="alternateBounds" />
+            <mxRectangle x="1158" y="846" width="197" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-10" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-9">
           <mxGeometry x="51" y="29" width="120" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-11" value="&lt;span style=&quot;color: rgb(0, 123, 255); font-weight: 400; text-align: left;&quot;&gt;Trip Counts&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="1159" y="955" width="199" height="98" as="geometry">
-            <mxRectangle x="1159" y="660" width="134" height="26" as="alternateBounds" />
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-11" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Trip Counts&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1159" y="955" width="199" height="68" as="geometry">
+            <mxRectangle x="1159" y="955" width="197" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-12" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-11">
-          <mxGeometry x="51" y="29" width="120" height="66" as="geometry" />
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-12" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-11">
+          <mxGeometry x="51" y="29" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-14" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Weekly Drug Testing&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1159" y="1032" width="199" height="80" as="geometry">
+            <mxRectangle x="1159" y="1032" width="198" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-15" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-14">
+          <mxGeometry x="51" y="29" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-17" value="Inmate List" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1372" y="626" width="201" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-18" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Profile&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="660" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-20" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Calendar&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="686" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-21" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Case Notes&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="714" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-22" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Daily Log Entries&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="744" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-23" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Disciplinary Reports&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="775" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-24" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Drug Tests&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="800" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-30" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Gain Time Ratings&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1373" y="900" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
