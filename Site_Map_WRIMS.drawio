@@ -1149,7 +1149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="304" dy="178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="522" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
@@ -2394,6 +2394,25 @@
           <mxGeometry x="1810" y="762" width="199" height="23" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-50" value="Employers / Providers" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="2030" y="626" width="201" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-51" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Employers&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="2031" y="660" width="199" height="98" as="geometry">
+            <mxRectangle x="1159" y="660" width="200" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-52" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-51">
+          <mxGeometry x="51" y="29" width="120" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-55" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Providers&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="2031" y="767" width="199" height="98" as="geometry">
+            <mxRectangle x="1159" y="660" width="200" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-56" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Details&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="vuQbkAUFiS57nvrcOvvr-55">
+          <mxGeometry x="51" y="29" width="120" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
