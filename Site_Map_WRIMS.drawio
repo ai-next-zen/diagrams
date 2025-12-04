@@ -1149,7 +1149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="566" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
@@ -1917,7 +1917,7 @@
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hAVVUOftqvUgP58lIGlO-1" source="9fHjI7VzHrNqkwSG7S1c-23" target="9fHjI7VzHrNqkwSG7S1c-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9fHjI7VzHrNqkwSG7S1c-23" value="WRIMS APPLICATION" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontStyle=1;strokeColor=#BD7000;fontColor=#000000;fontSize=15;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+        <mxCell id="9fHjI7VzHrNqkwSG7S1c-23" value="WRIMS APPLICATION" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;fontStyle=1;strokeColor=#82b366;fontSize=15;gradientColor=#97d077;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1359" y="170" width="201" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hAVVUOftqvUgP58lIGlO-1" source="9fHjI7VzHrNqkwSG7S1c-24" target="9fHjI7VzHrNqkwSG7S1c-28">
@@ -2025,6 +2025,17 @@
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-57" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View WRC Positions&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="9fHjI7VzHrNqkwSG7S1c-56">
           <mxGeometry x="45" y="29" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="9fHjI7VzHrNqkwSG7S1c-58" value="Special Privileges" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="3310" y="390" width="201" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="9fHjI7VzHrNqkwSG7S1c-59" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Code Table Maintenance&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="3311" y="424" width="199" height="86" as="geometry">
+            <mxRectangle x="1159" y="660" width="200" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9fHjI7VzHrNqkwSG7S1c-60" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Code Table Records&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" vertex="1" parent="9fHjI7VzHrNqkwSG7S1c-59">
+          <mxGeometry x="45" y="29" width="150" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
