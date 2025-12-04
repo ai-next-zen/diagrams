@@ -1149,7 +1149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="1131" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="304" dy="178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
@@ -2290,7 +2290,7 @@
           <mxGeometry x="51" y="29" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-17" value="Inmate List" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="1372" y="626" width="201" height="31" as="geometry" />
+          <mxGeometry x="1375" y="626" width="201" height="31" as="geometry" />
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-18" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Profile&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1374" y="703" width="199" height="23" as="geometry">
@@ -2344,7 +2344,7 @@
           <mxGeometry x="67" y="30" width="83" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-35" value="Daily Log" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="1590" y="626" width="201" height="31" as="geometry" />
+          <mxGeometry x="1591" y="626" width="201" height="31" as="geometry" />
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-38" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View details&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Filter Results&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1430" y="660" width="90" height="35" as="geometry" />
@@ -2369,6 +2369,29 @@
         </mxCell>
         <mxCell id="vuQbkAUFiS57nvrcOvvr-44" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Last Shift Highlights&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="1593" y="820" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-45" value="DC Resource Materials" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1810" y="626" width="201" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-46" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;DC Forms&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1810" y="670" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;DC Master Menu&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1810" y="700" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-48" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;DC Procedure&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1810" y="732.5" width="199" height="23" as="geometry">
+            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-49" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;DC Rules&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+          <mxGeometry x="1810" y="762" width="199" height="23" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
