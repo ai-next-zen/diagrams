@@ -1828,23 +1828,18 @@
         <mxCell id="vuQbkAUFiS57nvrcOvvr-58" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View Incidents&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Filter Results&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="2298.5" y="661" width="108.5" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-59" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Daily Log Entries&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-59" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Details&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="2249" y="708" width="199" height="23" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Inmate Return Times&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Shift OIC&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="2249" y="738" width="199" height="23" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Inmate Entry/Exit&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
+        <mxCell id="vuQbkAUFiS57nvrcOvvr-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Review&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
           <mxGeometry x="2249" y="770.5" width="199" height="23" as="geometry">
-            <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vuQbkAUFiS57nvrcOvvr-62" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Last Shift Highlights&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="2249" y="800" width="199" height="23" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
