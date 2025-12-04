@@ -1885,17 +1885,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-17" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Termination&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="2699" y="655" width="149" height="20" as="geometry">
+          <mxGeometry x="2699" y="656" width="149" height="20" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;&amp;nbsp; Inmates Receiving Salary&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=10;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="2699" y="677" width="149" height="20" as="geometry">
+          <mxGeometry x="2699" y="678" width="149" height="20" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Inmates Receiving Tips&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=10;" vertex="1" parent="hAVVUOftqvUgP58lIGlO-1">
-          <mxGeometry x="2699" y="699" width="149" height="20" as="geometry">
+          <mxGeometry x="2699" y="700" width="149" height="20" as="geometry">
             <mxRectangle x="1373" y="660" width="199" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
