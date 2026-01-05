@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.3" pages="2">
   <diagram name="WRIMS-SITE-MAP" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="1236" dy="1200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="557" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
@@ -205,28 +205,28 @@
           <mxGeometry height="31" width="201" x="2451" y="389" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-1" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Pending Inmate Reciepts&lt;/span&gt;" vertex="1">
-          <mxGeometry height="98" width="199" x="2452" y="423" as="geometry">
+          <mxGeometry height="86" width="199" x="2452" y="423" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9fHjI7VzHrNqkwSG7S1c-2" parent="9fHjI7VzHrNqkwSG7S1c-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Employers&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="66" width="120" x="51" y="29" as="geometry" />
+        <mxCell id="9fHjI7VzHrNqkwSG7S1c-2" parent="9fHjI7VzHrNqkwSG7S1c-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Pending Inmates Reciepts&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="56.5" width="174" x="25" y="24.5" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-3" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Recent Inmate Reciepts&lt;/span&gt;" vertex="1">
           <mxGeometry height="98" width="199" x="2452" y="530" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9fHjI7VzHrNqkwSG7S1c-4" parent="9fHjI7VzHrNqkwSG7S1c-3" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Providers&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="66" width="120" x="51" y="29" as="geometry" />
+        <mxCell id="9fHjI7VzHrNqkwSG7S1c-4" parent="9fHjI7VzHrNqkwSG7S1c-3" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Recent inmate Reciepts&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="66" width="164" x="35" y="29" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-6" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Pending Inmate Reciepts&lt;/span&gt;" vertex="1">
           <mxGeometry height="98" width="199" x="2452" y="640" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9fHjI7VzHrNqkwSG7S1c-7" parent="9fHjI7VzHrNqkwSG7S1c-6" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Providers&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Filter Results&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="66" width="120" x="51" y="29" as="geometry" />
+        <mxCell id="9fHjI7VzHrNqkwSG7S1c-7" parent="9fHjI7VzHrNqkwSG7S1c-6" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Pending Inmate Transfers&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="66" width="172" x="26" y="25.25" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-8" parent="hAVVUOftqvUgP58lIGlO-1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" value="Reports" vertex="1">
           <mxGeometry height="31" width="201" x="2887" y="389" as="geometry" />
