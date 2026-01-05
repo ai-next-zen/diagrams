@@ -447,6 +447,11 @@
         <mxCell id="82y4Rl9lM6OsV0oII-wx-3" parent="hAVVUOftqvUgP58lIGlO-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View Inmate Movements&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Filter Results&lt;/li&gt;" vertex="1">
           <mxGeometry height="39" width="150" x="2704" y="427" as="geometry" />
         </mxCell>
+        <mxCell id="82y4Rl9lM6OsV0oII-wx-7" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;startSize=23;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Property&lt;/span&gt;" vertex="1">
+          <mxGeometry height="23" width="199" x="1382" y="905" as="geometry">
+            <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
