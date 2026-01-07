@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10" pages="3">
   <diagram name="WRIMS-SITE-MAP" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="125" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
@@ -427,50 +427,50 @@
           <mxGeometry height="47.5" width="98" x="32" y="27" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-49" parent="hAVVUOftqvUgP58lIGlO-1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" value="Work Release Center" vertex="1">
-          <mxGeometry height="31" width="159" x="2886" y="389" as="geometry" />
+          <mxGeometry height="31" width="156" x="2883" y="389" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-50" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Information&lt;/span&gt;" vertex="1">
-          <mxGeometry height="86" width="199" x="2965" y="436" as="geometry">
+          <mxGeometry height="124" width="156.5" x="2882.5" y="435" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-51" parent="9fHjI7VzHrNqkwSG7S1c-50" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View-Edit WRC Information&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View-Add-Edit Shift Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Shift Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="51" width="150" x="45" y="29" as="geometry" />
+          <mxGeometry height="63" width="124" x="22.5" y="37" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-52" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Positions&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="199" x="2965" y="532" as="geometry">
+          <mxGeometry height="80" width="157" x="2883" y="579" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-53" parent="9fHjI7VzHrNqkwSG7S1c-52" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View WRC Positions&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="41" width="120" x="45" y="29" as="geometry" />
+          <mxGeometry height="41" width="115" x="25" y="28" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-54" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Staff&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="199" x="2964" y="621" as="geometry">
+          <mxGeometry height="80" width="157" x="2883" y="682" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-55" parent="9fHjI7VzHrNqkwSG7S1c-54" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View WRC Staff&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="41" width="120" x="45" y="29" as="geometry" />
+          <mxGeometry height="41" width="114" x="26" y="30" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-56" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Contracts&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="199" x="2964" y="710" as="geometry">
+          <mxGeometry height="85.5" width="161" x="2885" y="784.5" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-57" parent="9fHjI7VzHrNqkwSG7S1c-56" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View WRC Contracts&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="41" width="120" x="45" y="29" as="geometry" />
+          <mxGeometry height="41" width="125" x="25" y="29" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-58" parent="hAVVUOftqvUgP58lIGlO-1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" value="Special Privileges" vertex="1">
-          <mxGeometry height="31" width="159" x="3220" y="389" as="geometry" />
+          <mxGeometry height="31" width="161" x="3220" y="389" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-59" parent="hAVVUOftqvUgP58lIGlO-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Code Table Maintenance&lt;/span&gt;" vertex="1">
-          <mxGeometry height="86" width="199" x="3522" y="424" as="geometry">
+          <mxGeometry height="86" width="161" x="3220" y="439" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-60" parent="9fHjI7VzHrNqkwSG7S1c-59" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;View Code Table Records&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Add-Edit Record&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delete Record&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="51" width="150" x="45" y="29" as="geometry" />
+          <mxGeometry height="51" width="140" x="19" y="28" as="geometry" />
         </mxCell>
         <mxCell id="9fHjI7VzHrNqkwSG7S1c-63" edge="1" parent="hAVVUOftqvUgP58lIGlO-1" source="9fHjI7VzHrNqkwSG7S1c-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="vuQbkAUFiS57nvrcOvvr-50">
           <mxGeometry relative="1" as="geometry" />
@@ -513,10 +513,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KhWrtdo7OXAcJ2Dz-QHx-0" parent="hAVVUOftqvUgP58lIGlO-1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" value="Contact Information" vertex="1">
-          <mxGeometry height="31" width="159" x="3057" y="389" as="geometry" />
+          <mxGeometry height="31" width="159" x="3052" y="389" as="geometry" />
         </mxCell>
         <mxCell id="KhWrtdo7OXAcJ2Dz-QHx-1" parent="hAVVUOftqvUgP58lIGlO-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View Contact Information&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Edit Contact Information&lt;/li&gt;" vertex="1">
-          <mxGeometry height="39" width="150" x="2750" y="230" as="geometry" />
+          <mxGeometry height="39" width="140" x="3070" y="435" as="geometry" />
         </mxCell>
         <mxCell id="GLilOnErCMpkkoLaba7g-1" edge="1" parent="hAVVUOftqvUgP58lIGlO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9fHjI7VzHrNqkwSG7S1c-0" value="">
           <mxGeometry relative="1" as="geometry">
