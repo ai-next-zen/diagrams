@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="2">
   <diagram name="WRIMS-SITE-MAP" id="Akokuv3aD4Ag0T7KomR6">
-    <mxGraphModel dx="1804" dy="1200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="1200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hAVVUOftqvUgP58lIGlO-0" />
         <mxCell id="hAVVUOftqvUgP58lIGlO-1" parent="hAVVUOftqvUgP58lIGlO-0" />
@@ -514,6 +514,12 @@
             </Array>
             <mxPoint x="2552" y="387" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KhWrtdo7OXAcJ2Dz-QHx-0" parent="hAVVUOftqvUgP58lIGlO-1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" value="Contact Information" vertex="1">
+          <mxGeometry height="31" width="201" x="2667" y="478.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KhWrtdo7OXAcJ2Dz-QHx-1" parent="hAVVUOftqvUgP58lIGlO-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#060606;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View Contact Information&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Edit Contact Information&lt;/li&gt;" vertex="1">
+          <mxGeometry height="39" width="150" x="2704" y="516.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
