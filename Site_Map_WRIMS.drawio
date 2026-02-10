@@ -558,7 +558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DCS-SITE-MAP" id="OE4zCXbYWd_1ZAAP2BdS">
-    <mxGraphModel dx="73" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="254" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="T_aB6gEs-wVGEVvc0dYP-0" />
         <mxCell id="T_aB6gEs-wVGEVvc0dYP-1" parent="T_aB6gEs-wVGEVvc0dYP-0" />
@@ -587,12 +587,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T_aB6gEs-wVGEVvc0dYP-51" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;STEP 1 of 4&lt;/span&gt;" vertex="1">
-          <mxGeometry height="71" width="160" x="1680" y="438" as="geometry">
+          <mxGeometry height="61" width="160" x="1680" y="438" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="T_aB6gEs-wVGEVvc0dYP-52" parent="T_aB6gEs-wVGEVvc0dYP-51" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Add Offender Details&lt;/li&gt;" vertex="1">
-          <mxGeometry height="40" width="124.75" x="25.25" y="30" as="geometry" />
         </mxCell>
         <mxCell id="T_aB6gEs-wVGEVvc0dYP-70" edge="1" parent="T_aB6gEs-wVGEVvc0dYP-1" source="T_aB6gEs-wVGEVvc0dYP-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T_aB6gEs-wVGEVvc0dYP-73" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -608,10 +605,7 @@
         <mxCell id="T_aB6gEs-wVGEVvc0dYP-73" parent="T_aB6gEs-wVGEVvc0dYP-1" style="whiteSpace=wrap;html=1;fillColor=#FFD966;strokeWidth=2;fontStyle=1;" value="ASM -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SHARED SERVICE&lt;/span&gt;&lt;div&gt;AUTHENTICATION-AUTHORIZATION&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="330" x="2249" y="147" as="geometry" />
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-74" edge="1" parent="T_aB6gEs-wVGEVvc0dYP-1" source="T_aB6gEs-wVGEVvc0dYP-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YR_lAjI8Kc06uw6J7tCk-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T_aB6gEs-wVGEVvc0dYP-84" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#000000;" value="&lt;span style=&quot;text-align: left;&quot;&gt;HOME&lt;/span&gt;" vertex="1">
+        <mxCell id="T_aB6gEs-wVGEVvc0dYP-84" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFFFCC;fontColor=#000000;" value="&lt;span style=&quot;text-align: left;&quot;&gt;HOME&lt;/span&gt;" vertex="1">
           <mxGeometry height="103" width="1113" x="1569" y="241" as="geometry">
             <mxRectangle height="61" width="199" x="2004.5" y="479" as="alternateBounds" />
           </mxGeometry>
@@ -635,28 +629,12 @@
           <mxGeometry height="31" width="159" x="930" y="42" as="geometry" />
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-12" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;STEP 2 of 4&lt;/span&gt;" vertex="1">
-          <mxGeometry height="75" width="160" x="1679" y="515" as="geometry">
+          <mxGeometry height="64" width="160" x="1679" y="515" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-13" parent="YR_lAjI8Kc06uw6J7tCk-12" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Court / Sentencing Details&lt;/li&gt;" vertex="1">
-          <mxGeometry height="19" width="124.75" x="25.25" y="37" as="geometry" />
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-14" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;STEP 3 of 4&lt;/span&gt;" vertex="1">
-          <mxGeometry height="75" width="160" x="1679" y="609" as="geometry">
-            <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-15" parent="YR_lAjI8Kc06uw6J7tCk-14" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Primary Offense Details&lt;/li&gt;" vertex="1">
-          <mxGeometry height="40" width="124.75" x="25.25" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-16" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;STEP 4 of 4&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="160" x="1679" y="701" as="geometry">
-            <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-17" parent="YR_lAjI8Kc06uw6J7tCk-16" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Review Details&lt;/li&gt;" vertex="1">
-          <mxGeometry height="34" width="124.75" x="25.25" y="30" as="geometry" />
+          <mxGeometry height="13" width="124.75" x="25.25" y="37" as="geometry" />
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-18" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Search Criteria&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="1504" y="439" as="geometry">
@@ -664,12 +642,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-20" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Display Search&amp;nbsp; Results&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="135.5" width="160" x="1504" y="480.5" as="geometry">
+          <mxGeometry height="115.5" width="160" x="1504" y="480.5" as="geometry">
             <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-22" parent="YR_lAjI8Kc06uw6J7tCk-20" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View Scoresheet&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Validate Scoresheet&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Duplicate Scoresheet&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Select Offender&lt;/span&gt;&lt;/li&gt;" vertex="1">
-          <mxGeometry height="81.5" width="135" x="13" y="42.5" as="geometry" />
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-23" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;IV. Prior Records&lt;/span&gt;" vertex="1">
           <mxGeometry height="23" width="160" x="1863" y="541" as="geometry">
@@ -682,17 +657,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-26" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;VII. Firearms&lt;/span&gt;" vertex="1">
-          <mxGeometry height="23" width="160" x="1863.5" y="648" as="geometry">
+          <mxGeometry height="23" width="160" x="1863.5" y="644" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-27" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;VIII. Prior Serious Felony&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="23" width="160" x="1864" y="683.5" as="geometry">
+          <mxGeometry height="23" width="160" x="1864" y="677.5" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-28" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;IX. Enhancements&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="23" width="160" x="1863" y="717" as="geometry">
+          <mxGeometry height="23" width="160" x="1863" y="711" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -731,47 +706,32 @@
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-57" parent="T_aB6gEs-wVGEVvc0dYP-1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;fontStyle=1" value="Scoresheet Continue" vertex="1">
           <mxGeometry height="31" width="159" x="2037.5" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-58" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;I. Primary Offense&lt;/span&gt;" vertex="1">
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-58" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Print/View Scoresheet&lt;/span&gt;" vertex="1">
           <mxGeometry height="23" width="160" x="2037" y="436" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-59" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;II. Additional Offenses&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-59" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Sentence Computation&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="23" width="160" x="2037.5" y="471.5" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-60" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;III. Victim Injury&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-60" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Sentence Imposed&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="23" width="160" x="2036.5" y="505" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-61" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;IV. Prior Records&lt;/span&gt;" vertex="1">
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-61" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;Mitigating Circumstances&lt;/span&gt;" vertex="1">
           <mxGeometry height="23" width="160" x="2036.5" y="539" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-62" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;VI. Community Sanction&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-62" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Close Scoresheet&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="23" width="160" x="2036" y="608" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-63" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;VII. Firearms&lt;/span&gt;" vertex="1">
-          <mxGeometry height="23" width="160" x="2037" y="646" as="geometry">
-            <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-64" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;VIII. Prior Serious Felony&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="23" width="160" x="2037.5" y="681.5" as="geometry">
-            <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-65" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;IX. Enhancements&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="23" width="160" x="2036.5" y="715" as="geometry">
-            <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-66" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;V. Legal Status&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-66" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#007bff&quot;&gt;Judge&#39;s Signature&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="23" width="160" x="2037.5" y="574" as="geometry">
             <mxRectangle height="26" width="199" x="1373" y="660" as="alternateBounds" />
           </mxGeometry>
@@ -830,10 +790,35 @@
         <mxCell id="YR_lAjI8Kc06uw6J7tCk-52" parent="YR_lAjI8Kc06uw6J7tCk-51" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Confirm Scoresheet Expungement&lt;/li&gt;" vertex="1">
           <mxGeometry height="40" width="124.75" x="25.25" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="YR_lAjI8Kc06uw6J7tCk-67" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#000000;startSize=9;" value="" vertex="1">
-          <mxGeometry height="454" width="1278" x="1486.5" y="360.5" as="geometry">
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-67" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFB366;fontColor=#000000;startSize=9;container=0;" value="" vertex="1">
+          <mxGeometry height="386.5" width="1253.5" x="1486.5" y="363.5" as="geometry">
             <mxRectangle height="61" width="199" x="2004.5" y="479" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-22" parent="YR_lAjI8Kc06uw6J7tCk-67" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;View Scoresheet&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Validate Scoresheet&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Duplicate Scoresheet&lt;/span&gt;&lt;/li&gt;&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Select Offender&lt;/span&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="81.5" width="135" x="30" y="142.75" as="geometry" />
+        </mxCell>
+        <mxCell id="T_aB6gEs-wVGEVvc0dYP-52" parent="T_aB6gEs-wVGEVvc0dYP-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Add Offender Details&lt;/li&gt;" vertex="1">
+          <mxGeometry height="18" width="124.75" x="1701" y="470.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-14" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;STEP 3 of 4&lt;/span&gt;" vertex="1">
+          <mxGeometry height="66.5" width="160" x="1679" y="589" as="geometry">
+            <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-15" parent="YR_lAjI8Kc06uw6J7tCk-14" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Primary Offense Details&lt;/li&gt;" vertex="1">
+          <mxGeometry height="40" width="124.75" x="25.25" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-16" parent="T_aB6gEs-wVGEVvc0dYP-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" value="&lt;span style=&quot;color: rgb(0, 123, 255); text-align: left;&quot;&gt;STEP 4 of 4&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="1679" y="665" as="geometry">
+            <mxRectangle height="26" width="200" x="1159" y="660" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-17" parent="YR_lAjI8Kc06uw6J7tCk-16" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;fillColor=default;fontColor=#000000;" value="&lt;li data-start=&quot;943&quot; data-end=&quot;965&quot;&gt;Review Details&lt;/li&gt;" vertex="1">
+          <mxGeometry height="34" width="124.75" x="25.25" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YR_lAjI8Kc06uw6J7tCk-75" edge="1" parent="T_aB6gEs-wVGEVvc0dYP-1" source="T_aB6gEs-wVGEVvc0dYP-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.511;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="YR_lAjI8Kc06uw6J7tCk-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
