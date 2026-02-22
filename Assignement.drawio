@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="N7OKWrrbC0qSRWHyT7KZ">
+    <mxGraphModel dx="1661" dy="1067" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-8" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#2F543F;strokeColor=#213B2C;fontColor=#ffffff;container=0;" value="Data Harmonisation Hub" vertex="1">
+          <mxGeometry height="249" width="360" x="80" y="-140" as="geometry">
+            <mxRectangle height="30" width="500" x="253" y="-26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-13" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#242943;strokeColor=#1A1E31;fontColor=#ffffff;" value="AI Agent Orchestration" vertex="1">
+          <mxGeometry height="230" width="324" x="665" y="119" as="geometry">
+            <mxRectangle height="30" width="700" x="100" y="550" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-14" parent="kuvnyG0Er82MW4FUVgZX-13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Signal Detection&lt;br&gt;Agent&lt;br&gt;Classifier" vertex="1">
+          <mxGeometry height="40" width="324" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-15" parent="kuvnyG0Er82MW4FUVgZX-13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Impact Quantifier&lt;br&gt;Agent&lt;br&gt;Reasoning Model" vertex="1">
+          <mxGeometry height="40" width="324" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-16" parent="kuvnyG0Er82MW4FUVgZX-13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Notice Drafting&lt;br&gt;Agent&lt;br&gt;GPT-4o / Claude" vertex="1">
+          <mxGeometry height="40" width="324" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-17" parent="kuvnyG0Er82MW4FUVgZX-13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Claim Tracker&lt;br&gt;Agent&lt;br&gt;Rule Engine + LLM" vertex="1">
+          <mxGeometry height="40" width="324" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-18" parent="kuvnyG0Er82MW4FUVgZX-13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Orchestrator &amp;&lt;br&gt;Router&lt;br&gt;LangGraph /&lt;br&gt;Semantic Kernel" vertex="1">
+          <mxGeometry height="40" width="324" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-19" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#5C3D2E;strokeColor=#402A1F;fontColor=#ffffff;container=0;" value="Human-in-the-Loop Review&lt;br&gt;Portal" vertex="1">
+          <mxGeometry height="190" width="433" x="191" y="328" as="geometry">
+            <mxRectangle height="30" width="700" x="100" y="760" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-24" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#242943;strokeColor=#1A1E31;fontColor=#ffffff;" value="Action &amp;amp; Notification Layer" vertex="1">
+          <mxGeometry height="230" width="250" x="-161" y="521" as="geometry">
+            <mxRectangle height="30" width="250" x="250" y="920" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-25" parent="kuvnyG0Er82MW4FUVgZX-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Document Issued&lt;br&gt;SharePoint / DMS" vertex="1">
+          <mxGeometry height="40" width="250" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-26" parent="kuvnyG0Er82MW4FUVgZX-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="ERP Cost Code&lt;br&gt;&amp;amp; WBS Updated" vertex="1">
+          <mxGeometry height="40" width="250" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-27" parent="kuvnyG0Er82MW4FUVgZX-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="PMIS Schedule&lt;br&gt;Adjusted" vertex="1">
+          <mxGeometry height="40" width="250" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-28" parent="kuvnyG0Er82MW4FUVgZX-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Claim Register&lt;br&gt;Updated" vertex="1">
+          <mxGeometry height="40" width="250" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-29" parent="kuvnyG0Er82MW4FUVgZX-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Stakeholder&lt;br&gt;Notifications" vertex="1">
+          <mxGeometry height="40" width="250" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-30" edge="1" parent="1" source="kuvnyG0Er82MW4FUVgZX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontColor=light-dark(#000000,#FF6666);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=2;strokeColor=light-dark(#000000,#000000);startSize=8;align=center;fontSize=15;" target="kuvnyG0Er82MW4FUVgZX-8" value="Trigger / API / File Watch">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="-186" />
+            </Array>
+            <mxPoint x="275" y="330" as="sourcePoint" />
+            <mxPoint x="275" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-31" edge="1" parent="1" source="kuvnyG0Er82MW4FUVgZX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;fontColor=#000000;" target="kuvnyG0Er82MW4FUVgZX-13" value="RAG Retrieval + Tool Calls">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1015" y="69" />
+            </Array>
+            <mxPoint x="275" y="490" as="sourcePoint" />
+            <mxPoint x="275" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-32" edge="1" parent="1" source="kuvnyG0Er82MW4FUVgZX-14" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#000000;" target="kuvnyG0Er82MW4FUVgZX-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="620" as="sourcePoint" />
+            <mxPoint x="100" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-33" edge="1" parent="1" source="kuvnyG0Er82MW4FUVgZX-15" style="endArrow=block;html=1;rounded=0;endFill=1;strokeColor=#000000;" target="kuvnyG0Er82MW4FUVgZX-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="620" as="sourcePoint" />
+            <mxPoint x="240" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-34" edge="1" parent="1" source="kuvnyG0Er82MW4FUVgZX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;fontColor=#000000;" target="kuvnyG0Er82MW4FUVgZX-19" value="AI Draft + Confidence Score">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="827" y="459" />
+            </Array>
+            <mxPoint x="450" y="700" as="sourcePoint" />
+            <mxPoint x="450" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-35" edge="1" parent="1" source="kuvnyG0Er82MW4FUVgZX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;fontColor=#000000;" target="kuvnyG0Er82MW4FUVgZX-24" value="Approved Outputs Only">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="860" as="sourcePoint" />
+            <mxPoint x="450" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Structured Review&lt;br&gt;UI&lt;br&gt;Confidence . Evidence&lt;br&gt;. Diff" vertex="1">
+          <mxGeometry height="40" width="433" x="191" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Approve / Reject /&lt;br&gt;Edit&lt;br&gt;with Reason Capture" vertex="1">
+          <mxGeometry height="40" width="433" x="191" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Escalation Routing&lt;br&gt;PMO&lt;br&gt;to Legal to CFO" vertex="1">
+          <mxGeometry height="40" width="433" x="191" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;" value="Digital Signature&lt;br&gt;&amp;amp; Audit Trail" vertex="1">
+          <mxGeometry height="40" width="433" x="191" y="478" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="PII Masking &amp;amp; Data Quality Scoring" vertex="1">
+          <mxGeometry height="40" width="360" x="80" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="Metadata Enrichment project_id or contract_ref . date" vertex="1">
+          <mxGeometry height="40" width="360" x="80" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="Vector Embedding" vertex="1">
+          <mxGeometry height="40" width="360" x="80" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="Schema Normalisation" vertex="1">
+          <mxGeometry height="40" width="360" x="80" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-38" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="230" width="224" x="-193" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-2" parent="kuvnyG0Er82MW4FUVgZX-38" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#242943;strokeColor=#1A1E31;fontColor=#ffffff;container=0;" value="Data Sources" vertex="1">
+          <mxGeometry height="230" width="224" as="geometry">
+            <mxRectangle height="30" width="250" x="-17" y="-111" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-3" parent="kuvnyG0Er82MW4FUVgZX-38" style="rounded=1;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;whiteSpace=wrap;" value="MS Project / Jira" vertex="1">
+          <mxGeometry height="40" width="224" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-4" parent="kuvnyG0Er82MW4FUVgZX-38" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;" value="ERP SAP / Oracle" vertex="1">
+          <mxGeometry height="40" width="224" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-5" parent="kuvnyG0Er82MW4FUVgZX-38" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;" value="Document Repos SharePoint / DMS" vertex="1">
+          <mxGeometry height="40" width="224" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-6" parent="kuvnyG0Er82MW4FUVgZX-38" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;" value="Email / RFIs Submittals" vertex="1">
+          <mxGeometry height="40" width="224" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-7" parent="kuvnyG0Er82MW4FUVgZX-38" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;" value="Contract PDFs &amp;amp; Blueprints" vertex="1">
+          <mxGeometry height="40" width="224" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kuvnyG0Er82MW4FUVgZX-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0D6F3;strokeColor=#99A9E0;fontColor=#000000;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="Schema Normalisation" vertex="1">
+          <mxGeometry height="40" width="360" x="80" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
